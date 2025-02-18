@@ -3,4 +3,6 @@ numpy
 seaborn 
 matplotlib==3.7.5
 scikit-learn
--e .
+catboost
+xgboost
+#-e .
