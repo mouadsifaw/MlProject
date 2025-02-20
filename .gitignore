@@ -136,7 +136,6 @@ mlenv/
 ENV/
 env.bak/
 venv.bak/
-.artificats
 
 # Spyder project settings
 .spyderproject
